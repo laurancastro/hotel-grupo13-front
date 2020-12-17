@@ -1,6 +1,6 @@
 # hotel_ui
 
-> A UI for a hotel created by group 13 
+> An UI for a hotel created by group 13 
 
 ## Build Setup
 
